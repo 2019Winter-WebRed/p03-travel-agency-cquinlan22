@@ -1,0 +1,35 @@
+/*
+* Cara Quinlan
+* Due date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* 
+
+/* Body attributes here */
+
+body{ 
+background-color:aliceblue;
+}
+h1
+{ 
+color:  cadetblue;
+}
+h2{
+    color: cadetblue
+}
+img {
+   width: 500px; height:300px;
+}
+#building {width: 400px; height:200px;}
+figure {float:right;}
+
+#beach {width: 400px; height: 250px;}
+figure {float:left; }
+
+#beach2 {width: 400px; height:300px;}
+
+table{color: cadetblue;}
+
